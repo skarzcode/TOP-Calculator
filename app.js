@@ -48,7 +48,7 @@ function operateButtons() {
 clear.addEventListener("click", function () {
     currentValue.innerHTML = "0";
     lastValue.innerHTML = " ";
-    ifTrue = false;
+    // ifTrue = false;
 });
 
 
